@@ -43,7 +43,8 @@
 
 ## 🖼️ Screenshots
 
-(You can add screenshots of the game here)
+![Game Screenshot](screenshot.png)
+
 
 ## 💡 How It Works
 
